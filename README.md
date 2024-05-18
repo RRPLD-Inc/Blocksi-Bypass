@@ -3,7 +3,7 @@ Bypassing the blocksi-extension
 # Version
 ```3.0```
 # Log
-- 18.5.2024> Create repository for v3.0
+- **18.5.2024>** Create repository for v3.0
 # Usage
 - Download this repository
 - Extract the .zip file
